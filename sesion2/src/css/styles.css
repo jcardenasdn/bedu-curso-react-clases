@@ -1,0 +1,29 @@
+.card {
+    padding: 20px;
+    color: black;
+}
+
+.picture {
+    width: 300px;
+}
+
+.doctor-strange {
+    background-color: #92000A;
+}
+
+.antman {
+    background-color: grey;
+}
+
+.wonderwoman {
+    background-color: #15639E;
+}
+
+.deathstroke {
+    background-color: #ECAE07;
+}
+
+.elektra {
+    background-color: #f262de;
+}
+
